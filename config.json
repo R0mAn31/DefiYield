@@ -1,0 +1,6 @@
+{
+    "mainAddress": "0xA145ac099E3d2e9781C9c848249E2e6b256b030D",
+    "infuraID": "b8057d42a56e40fb81abad765b1ffde8",
+    "filePath": "./tokens.json",
+    "latestBalanceFilePath": "latestTokensBalances.json"
+}
